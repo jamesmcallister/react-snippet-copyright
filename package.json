@@ -1,0 +1,19 @@
+{
+  "name": "react-snippet-copyright",
+  "version": "1.0.0",
+  "description": "Small snippet for changing the date of the copyright on your site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesmcallister/react-snippet-copyright.git"
+  },
+  "author": "James McAllister",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesmcallister/react-snippet-copyright/issues"
+  },
+  "homepage": "https://github.com/jamesmcallister/react-snippet-copyright#readme"
+}
